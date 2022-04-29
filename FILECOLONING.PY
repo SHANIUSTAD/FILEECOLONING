@@ -62,7 +62,7 @@ class jalan:
 
 	def __init__(self, z):			sys.stdout.write(e)
 
-			sys.stdout.flush()
+			
 
 			time.sleep(0.009)
 
